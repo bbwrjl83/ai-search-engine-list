@@ -8,6 +8,8 @@ These tools excel when you need quick summaries, research assistance, or answers
 
 Your conversational research companion that answers questions with citations.
 
+<img width="1400" height="713" alt="image" src="https://github.com/user-attachments/assets/83d56cc9-674c-4c71-a769-704a12b459ba" />
+
 Perplexity combines the conversational feel of a chatbot with the information-gathering power of a search engine. When you ask a question, it searches across multiple sources and synthesizes a clear answer with clickable citations, so you can verify every claim. The platform uses advanced models like GPT-4 Omni, Claude 3.5 Sonnet, and its proprietary Sonar models to deliver contextually relevant responses.
 
 **What makes it work:** The Focus feature lets you narrow searches to specific sources like academic papers, Reddit discussions, or YouTube content. This targeted approach helps when you need domain-specific information rather than generic web results.
